@@ -12,3 +12,42 @@ BAN
 Learning to SMILES: BAN-based strategies to improve latent representation learning from molecules 
 https://github.com/zhang-xuan1314/SMILES-BiLSTM-attention-network
 
+MolMapNet
+Out-of-the-box deep learning prediction of pharmaceutical properties by broadly learned knowledge-based 
+https://github.com/shenwanxiang/bidd-molmap
+
+AttentiveFP
+Pushing the Boundaries of Molecular Representation for Drug Discovery with the Graph Attention Mechanism
+https://github.com/OpenDrugAI/AttentiveFP
+
+N-Gram Graph
+N-Gram Graph: Simple Unsupervised Representation for Graphs, with Applications to Molecules
+https://github.com/chao1224/n_gram_graph
+
+TrimNet
+TrimNet: learning molecular representation from triplet messages for biomedicine
+https://github.com/yvquanli/trimnet
+
+MolCLR
+Molecular contrastive learning of representations via graph neural networks
+https://github.com/yuyangw/MolCLR
+
+ImageMol
+Accurate prediction of molecular properties and drug targets using a self-supervised image representation learning framework
+https://github.com/ChengF-Lab/ImageMol
+
+SphereNet
+SPHERICAL MESSAGE PASSING FOR 3D MOLECULAR GRAPHS
+https://github.com/divelab/DIG
+
+GraphMVP
+PRE-TRAINING MOLECULAR GRAPH REPRESENTATION WITH 3D GEOMETRY
+https://github.com/chao1224/GraphMVP
+
+3d Infomax
+3D INFOMAX IMPROVES GNNS FOR MOLECULAR PROPERTY PREDICTION
+https://github.com/HannesStark/3DInfomax
+
+Finally, we provide a user-friendly web platform for displaying, storing all the data sets involved in this study, results, and supporting users to make relevant property predictions of new compounds on this platform.
+http://59.110.25.27:8501/
+
