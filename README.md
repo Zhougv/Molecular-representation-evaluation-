@@ -51,3 +51,5 @@ https://github.com/HannesStark/3DInfomax
 Finally, we provide a user-friendly web platform for displaying, storing all the data sets involved in this study, results, and supporting users to make relevant property predictions of new compounds on this platform.
 http://59.110.25.27:8501/
 
+If you want to know more about the data set, the evaluation method, the details of the experiment and the various interesting evaluation results.
+Please wait for our paper!
